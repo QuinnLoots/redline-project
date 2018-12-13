@@ -3,7 +3,9 @@ body {
     background-color: #383b43;
     color: #ffffff;
 }
-
+p{
+    color:#000000;
+}
 html,body{
     height:100%;
 }
@@ -22,6 +24,7 @@ html,body{
 
 .container-fluid{
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .vertical{
