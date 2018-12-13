@@ -24,6 +24,10 @@ html,body{
     margin-top: 50px;
 }
 
+.vertical{
+display: flex;
+    align-items: center;
+}
 /* keep full widget on smaller screens */
 @media (max-width: 767px) { 
 	body {
