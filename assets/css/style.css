@@ -1,3 +1,9 @@
+
+body {
+    background-color: #383b43;
+    color: #ffffff;
+}
+
 html,body{
     height:100%;
 }
@@ -14,7 +20,9 @@ html,body{
     background-size:cover;
 }
 
-
+.container-fluid{
+    margin-top: 50px;
+}
 
 /* keep full widget on smaller screens */
 @media (max-width: 767px) { 
