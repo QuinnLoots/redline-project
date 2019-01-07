@@ -11,10 +11,10 @@ html,body{
 }
 
 .carousel,.item,.active{
-    height:100%;
+    width:100%;
 }
 .carousel-inner{
-    height:100%;
+    width:100%;
 }
 
 .fill{
@@ -42,5 +42,8 @@ display: flex;
     .container-fluid{
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.vertical{
+display: block;
 }
 }
